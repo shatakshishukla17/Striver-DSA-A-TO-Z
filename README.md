@@ -4,7 +4,7 @@
 Welcome to my repository of solutions for **Striver's A2Z DSA Course**! This repository contains solutions to the problems covered in the course, which I'm currently working on uploading.
 ## Current Status
 - **Total Questions in the Course:** 455  
-- **Questions Solved by Me:** 426  
+- **Questions Solved by Me:** 426(as of now)
 - **Completion:** 93%  
 Since there are a lot of questions, I cannot upload all the solutions at once. However, I am updating this repository regularly, and **all 426 solved questions will be added over time, day by day**. Please check back frequently for updates!
 
